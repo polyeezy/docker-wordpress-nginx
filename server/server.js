@@ -2,7 +2,7 @@ var express = require('express');
 path = require('path'),
     app = express();
 
-app.set('port', 80);
+app.set('port', 81);
 
 //tell express that we want to use the www folder
 //for our static assets
