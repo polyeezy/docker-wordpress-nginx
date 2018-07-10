@@ -18,7 +18,7 @@
             <i class="bi-star"></i>
             <span>(33)</span>
           </div>
-          <a href="#" class="btn btn-ghost btn-plus btn-primary btn-sm">Get</a>
+          <a href="https://goo.gl/forms/j9XFNLFeqnK4wqMp1" target="_blank" class="btn btn-ghost btn-plus btn-primary btn-sm">Get</a>
         </div>
       </div>
       <div class="body padding-top-2x">
