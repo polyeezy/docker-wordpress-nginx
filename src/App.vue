@@ -90,6 +90,8 @@
     <div class="content-wrap">
       <HeaderSticky/>
       <Features></Features>
+      <FeaturesDescription></FeaturesDescription>
+      <Blog></Blog>
     </div>
     <Footer></Footer>
     <router-view/>
@@ -103,11 +105,12 @@
   import Features from './components/Features'
   import FeaturesDescription from './components/FeaturesDescription'
   import Intro from './components/Intro'
+  import Blog from './components/Blog'
   import Footer from './components/Footer'
 
   export default {
   name: 'App',
-    components: { Header,HeaderSticky, Intro, Features, FeaturesDescription, Footer},
+    components: { Header,HeaderSticky, Intro,Blog, Features, FeaturesDescription, Footer},
 }
 </script>
 

@@ -3299,12 +3299,13 @@ a.icon-block {
 }
 @media screen and (max-width: 991px) {
 	.app-gallery .item {
-		max-width: 320px;
+		max-width: 225px;
+    max-height: 225px;
 	}
 }
 @media screen and (max-width: 768px) {
 	.app-gallery .item {
-		max-width: 280px;
+    max-width: 225px;
 	}
 	.gallery .block-heading,
 	.gallery .nav-tabs {
