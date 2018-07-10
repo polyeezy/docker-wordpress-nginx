@@ -89,9 +89,8 @@
     <Intro/>
     <div class="content-wrap">
       <HeaderSticky/>
-      <Features></Features>
-      <FeaturesDescription></FeaturesDescription>
       <Blog></Blog>
+      <Features></Features>
     </div>
     <Footer></Footer>
     <router-view/>
