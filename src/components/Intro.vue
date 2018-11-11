@@ -99,7 +99,7 @@
           </div>
           <!-- Download Button -->
           <div class="download">
-            <a href="https://goo.gl/forms/j9XFNLFeqnK4wqMp1" target="_blank" class="btn btn-default btn-app-store">
+            <a href="https://testflight.apple.com/join/2Qitz0zZ" target="_blank" class="btn btn-default btn-app-store">
               <i class="bi-apple"></i>
               <div>
                 <span>Télécharger sur</span>

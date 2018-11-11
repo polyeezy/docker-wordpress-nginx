@@ -13,7 +13,7 @@
       </div>
       <!-- Toolbar -->
       <div class="toolbar">
-        <a href="https://goo.gl/forms/j9XFNLFeqnK4wqMp1" target="_blank" class="btn btn-ghost btn-primary icon-left"><i class="bi-apple"></i> Télécharger</a>
+        <a href="https://testflight.apple.com/join/2Qitz0zZ" target="_blank" class="btn btn-ghost btn-primary icon-left"><i class="bi-apple"></i> Télécharger</a>
         <div class="nav-toggle" data-offcanvas="open"><i class="flaticon-list26"></i></div>
       </div>
     </div>

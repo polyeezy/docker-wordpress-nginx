@@ -17,7 +17,7 @@
           <span>Explorez, Découvrez, Contribuez</span>
         </div>
       </a>
-      <a href="https://goo.gl/forms/j9XFNLFeqnK4wqMp1" target="_blank" class="btn btn-ghost btn-light icon-left"><i class="bi-apple"></i> Télécharger</a>
+      <a href="https://testflight.apple.com/join/2Qitz0zZ" target="_blank" class="btn btn-ghost btn-light icon-left"><i class="bi-apple"></i> Télécharger</a>
     </div>
     <!-- Body (Scroll Part) -->
     <div class="nav-body">

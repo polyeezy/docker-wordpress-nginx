@@ -4,7 +4,7 @@
       <!-- Footer Head -->
       <div class="footer-head">
         <div class="logo">
-          <a href="https://goo.gl/forms/j9XFNLFeqnK4wqMp1" target="_blank" class="srollup"><img src="static/img/logo-big.png" alt="Streetr"></a>
+          <a href="https://testflight.apple.com/join/2Qitz0zZ" target="_blank" class="srollup"><img src="static/img/logo-big.png" alt="Streetr"></a>
         </div>
         <div class="info">
           <h2>Streetr</h2>
@@ -18,7 +18,7 @@
             <i class="bi-star"></i>
             <span>(33)</span>
           </div>
-          <a href="https://goo.gl/forms/j9XFNLFeqnK4wqMp1" target="_blank" class="btn btn-ghost btn-plus btn-primary btn-sm">Get</a>
+          <a href="https://testflight.apple.com/join/2Qitz0zZ" target="_blank" class="btn btn-ghost btn-plus btn-primary btn-sm">Get</a>
         </div>
       </div>
       <div class="body padding-top-2x">
